@@ -1,0 +1,52 @@
+
+body {background: darkblue;}
+ki
+h1 { color: darkred; margin-left: 20px; font-size: 40px; text-align: center}
+p  { color: darkred; margin-left: 20px; font-size: 30px; font-family: Georgia;}
+a  { color: darkred; margin-right: 0;}
+
+.rad1 {background-color: beige; height: 50vh;}
+.page{width: 100%;}
+
+
+
+.leftcol {background-color: beige; height: 80vh; float: left; width: 20%}
+.content {background-color: lightbeige; height: 80vh; float: left; width: 60%; font-family: ’Russian Display’, cursive;}
+.rightcolumn {background-color: beige; height: 80vh; float: right; width: 20%}
+.footer {background-color: darkred; height: 10vh; width: 100%; clear: both; text-align: center;}
+.innerbox {padding: 10px;}
+.headingfont {font-family :’Play display’, serif; font-size: 40px;}
+.contentheaderfont {font-family: ’Lobster’, cursive; font-size: 30px;}
+.contentfont {font-family: ’Incomsolata’, monospace;}
+table {padding: 100px; border: 100px: dotted: black;} 
+td {padding: 500px; border: 500px solid red; }
+
+ul {
+
+list-style-type:none;
+margin: 0; padding: 0;
+background-color: darkred;
+
+}
+
+li a { 
+display: block;
+color: lightblue;
+padding: 22px 50px;
+text-decoration: none;
+
+}
+
+li a:hover {
+background-color: beige;
+color: darkblue;
+}
+
+a { 
+display: block;
+color: lightblue;
+padding: 0px 30px;
+text-decoration: none;
+
+}
+
